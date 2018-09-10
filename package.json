@@ -1,0 +1,23 @@
+{
+  "name": "ts-game-engine",
+  "version": "0.0.1",
+  "description": "A game engine, written in TypeScript",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "game-engine",
+    "engine",
+    "typescript",
+    "javascript",
+    "html",
+    "html5"
+  ],
+  "author": "marissaChan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
